@@ -288,7 +288,7 @@ AutoInsight AI: An Explainable and Conversational AutoML Framework for Autonomou
 
 Assistant Professor
 
-Electrical Engineering | AI & Data Science
+Electrical Engineering | AI & Data Science|PIEMR Indore
 
 Research Interests:
 
